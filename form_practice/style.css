@@ -1,0 +1,12 @@
+body {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+form {
+    width: 30%;
+    padding: 10px;
+    margin: 6px auto;
+    border: 2px solid gray;
+}
